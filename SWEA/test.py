@@ -16,4 +16,4 @@ if not result:
 else:
     print("오답 입니다.")
 
-os.system(f'rm -rf {problem_number}_result.txt')
+# os.system(f'rm -rf {problem_number}_result.txt')
