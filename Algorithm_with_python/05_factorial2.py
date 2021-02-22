@@ -3,4 +3,5 @@ def factorial2(number):
         return 1
     return number * (number - 1)
 
+
 print(factorial2(3))
