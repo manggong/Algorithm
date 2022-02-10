@@ -5,7 +5,7 @@ public class Median {
 		if (a >= b)
 			if (b >= c)
 				return b;
-			else if (a <= c)
+			else if (a <= c)	
 				return a;
 			else
 				return c;
